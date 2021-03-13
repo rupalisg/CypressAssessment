@@ -1,0 +1,7 @@
+{
+  "email"   :  "abcd@gmail.com",
+  "password":  "123456",
+  "msg"    :  "Oops!Invalid Username or Password.",
+  "blank_msg": " Required "
+  
+}
